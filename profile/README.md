@@ -1,6 +1,6 @@
 ## Bem-vindo ao FeedbackPRO! 👋
 
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+![Feedback](https://raw.githubusercontent.com/FeedbackPro/.github/main/profile/feedback.png)
 
 O FeedbackPro é uma poderosa plataforma SaaS (Software as a Service) projetada para impulsionar uma cultura de feedback eficaz e construtiva em organizações de todos os tamanhos. Com o FeedbackPro, as empresas podem promover a troca de feedbacks contínuos entre líderes, equipes e colaboradores, promovendo um ambiente de trabalho mais colaborativo e de alto desempenho.
 
